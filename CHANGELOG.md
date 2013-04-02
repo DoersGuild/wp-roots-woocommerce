@@ -6,6 +6,9 @@
 * Move Google Analytics to `lib/scripts.php`
 * Static top navbar instead of fixed
 
+### 6.3.0-woocommerce: April 2nd, 2013
+* Add support for [WooCommerce](http://www.woothemes.com/woocommerce/)
+
 ### 6.3.0: February 8th, 2013
 * Update to Bootstrap 2.3.0
 * Update to jQuery 1.9.1
