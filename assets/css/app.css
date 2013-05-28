@@ -69,6 +69,9 @@ body { }
 figure.alignnone { margin-left: 0; margin-right: 0; }
 
 
+/* fix for space above minus button; Issue #2 */
+input[type="number"].qty { margin-bottom: 0px; }
+
 
 /* ==========================================================================
    Media Queries
